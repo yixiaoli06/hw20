@@ -1,7 +1,129 @@
 .nav-item{
-background-color: black;
+background-color:#202124;
+color: skyblue;
 }
 
-.jumbotron jumbotron-fluid{
+.nav-link{
+color: lightblue;
+}
+
+.nav-link:hover{
+color: lavender;
+}
+
+#myTab{
+background-color: #202124;
+}
+
+#myTabContent:{
+background-color: #202124;
+}
+
+.jumbotron{
+background-color: lightblue;
+color: #202124;
+height: 400px;
+}
+
+h1{
+text-align: center;
+margin-top: 90px;
+font-weight:600;
+font-family: 'Rampart One', cursive;
+}
+
+h2{
+text-align: center;
+padding: 20px;
+color: skyblue;
+}
+
+h3{
+margin: 30px;
+}
+
+h5{
+text-align: center;
+}
+
+.overview-panel{
+justify-content: center;
+background-color:#202124;
+color: white;
+padding: 40px;
+}
+
+.process-overview-cards{
+display: flex;
+flex-direction: row;
+justify-content: center;
+background-color:#202124;
+}
+
+.card{
+background-color:#202124;
+color:white;
+}
+
+.overview-icon{
+display: flex;
+justify-content: center;
+color: white;
+}
+
+.icons{
+display: flex;
+justify-content: center;
+}
+
+.icon{
+padding: 30px;
+}
+
+#research-data-visualization{
+color:#202124;
+}
+
+#problem-statement-jumbotron{
+background-color:#202124;
+}
+
+#problem-statement-copy{
+color: white;
+}
+
+#blue-card{
+background-color: lightblue;
+}
+
+.mid-fi-img{
+display: flex;
+justify-content: center;
+}
+
+#mid-fi-title{
 background-color: skyblue;
+color: #202124;
+}
+
+#mid-fi-container{
+color: #202124;
+justify-content: center;
+}
+
+#high-fi-prototype-title{
+background-color:#202124;
+}
+
+.media{
+background-color:#202124;
+color: white;
+}
+
+.usability-testing-copy{
+margin: 50px;
+}
+
+.ml-3{
+padding: 30px;
 }
