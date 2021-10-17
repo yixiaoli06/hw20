@@ -102,7 +102,7 @@ justify-content: center;
 }
 
 #mid-fi-title{
-background-color: skyblue;
+background-color: lightblue;
 color: #202124;
 }
 
@@ -113,6 +113,16 @@ justify-content: center;
 
 #high-fi-prototype-title{
 background-color:#202124;
+}
+
+#high-fi-container{
+color: #202124;
+justify-content: center;
+}
+
+.high-fi-img{
+display: flex;
+justify-content: center;
 }
 
 .media{
@@ -126,4 +136,8 @@ margin: 50px;
 
 .ml-3{
 padding: 30px;
+}
+
+#solution-title{
+background-color:#202124;
 }
