@@ -28,8 +28,7 @@ height: 400px;
 h1{
 text-align: center;
 margin-top: 90px;
-font-weight:600;
-font-family: 'Rampart One', cursive;
+font-weight:600px;
 }
 
 h2{
@@ -80,12 +79,19 @@ justify-content: center;
 padding: 30px;
 }
 
-#research-data-visualization{
+#research{
 color:#202124;
+padding: 40px;
 }
 
-#problem-statement-jumbotron{
+.research-synthesis-container{
+background-color: lightblue;
+height: 500px;
+}
+
+.problem-statement-container{
 background-color:#202124;
+padding: 80px;
 }
 
 #problem-statement-copy{
@@ -101,6 +107,10 @@ display: flex;
 justify-content: center;
 }
 
+.mid-fi-title-container{
+background-color: lightblue;
+}
+
 #mid-fi-title{
 background-color: lightblue;
 color: #202124;
@@ -112,7 +122,9 @@ justify-content: center;
 }
 
 #high-fi-prototype-title{
-background-color:#202124;
+background-color:lightblue;
+color:#202124;
+padding: 20px;
 }
 
 #high-fi-container{
@@ -130,6 +142,14 @@ background-color:#202124;
 color: white;
 }
 
+.usability-testing-chart{
+padding: 100px 0px 0px 0px;
+}
+
+#usability-testing-title{
+text-align: center;
+}
+
 .usability-testing-copy{
 margin: 50px;
 }
@@ -138,6 +158,17 @@ margin: 50px;
 padding: 30px;
 }
 
-#solution-title{
+.solution-top{
 background-color:#202124;
+color: white;
+padding: 80px;
+}
+
+#conclusion-and-future-opportunities{
+color:#202124;
+}
+
+.solution-bottom{
+background-color:lightblue;
+padding: 80px;
 }
